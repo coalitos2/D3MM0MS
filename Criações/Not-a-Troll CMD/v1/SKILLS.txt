@@ -1,0 +1,6 @@
+1 Q-W-E-R
+2 Q-E-W-R
+3 W-Q-E-R
+4 W-E-Q-R
+5 E-Q-W-R
+6 E-W-Q-R

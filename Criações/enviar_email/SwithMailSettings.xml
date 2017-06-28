@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwithMailSettings>
+  <ServerSettings>
+    <FromName>test</FromName>
+    <FromAddress>victorpereiraaraujo@outlook.com</FromAddress>
+    <Username />
+    <Password>Mercenaries/1</Password>
+    <ObscurePassword>False</ObscurePassword>
+    <MailServer>smtp.live.com</MailServer>
+    <MailServerPort>587</MailServerPort>
+    <SSL>True</SSL>
+    <Encoding />
+    <RequestReceipt>False</RequestReceipt>
+  </ServerSettings>
+  <EmailAddresses>
+    <To>coalitos2@gmail.com</To>
+    <CC />
+    <BCC />
+    <ReplyTo />
+  </EmailAddresses>
+  <Attachments>
+    <AttachmentPath />
+  </Attachments>
+  <EmailContent>
+    <HTML>False</HTML>
+    <DontReplaceNewLine>False</DontReplaceNewLine>
+    <Subject>asdasdasdas</Subject>
+    <Body />
+    <BodyTxtFile />
+  </EmailContent>
+</SwithMailSettings>

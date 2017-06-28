@@ -1,0 +1,49 @@
+////// INFORMA√á√ïES DO COMPUTADOR ////// 
+ 
+DATA:11/06/2017 
+HORA:12:27:42,48 
+Usuario: victo 
+IP EXTERNO: 189.10.33.166 
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DESKTOP-0FSN5MA
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+   Lista de pesquisa de sufixo DNS . . . . . . : domain.name
+
+Adaptador Ethernet Ethernet:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : domain.name
+   Descriá∆o . . . . . . . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Endereáo F°sico . . . . . . . . . . . . . . : 08-62-66-98-F8-F1
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::4d9:1942:72e2:7920%4(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.25.5(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : Saturday, 10 de June de 2017 06:28:27
+   Concess∆o Expira. . . . . . . . . . . . . . : Monday, 12 de June de 2017 09:45:00
+   Gateway Padr∆o. . . . . . . . . . . . . . . : fe80::6e72:20ff:fed1:5ba4%4
+                                                 192.168.25.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.25.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 50881126
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-20-4D-24-98-08-62-66-98-F8-F1
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.25.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Endereáo F°sico . . . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 . . . . . . . . . . : 2001:0:9d38:78cf:30ab:2130:4ef9:e3a(Preferencial) 
+   Endereáo IPv6 de link local . . . . . . . . : fe80::30ab:2130:4ef9:e3a%2(Preferencial) 
+   Gateway Padr∆o. . . . . . . . . . . . . . . : ::
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 83886080
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-20-4D-24-98-08-62-66-98-F8-F1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Desabilitado
